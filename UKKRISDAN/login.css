@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form{
+    padding-top: 250px;
+}
+td{
+    padding-top: 20px;
+    width: 80px;
+}
